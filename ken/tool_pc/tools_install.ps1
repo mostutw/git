@@ -1,0 +1,47 @@
+# exe by pass
+Set-ExecutionPolicy Bypass -Scope Process -Force
+# choco
+choco install partitionmasterfree --version 19.0.0 -y
+choco install treesizefree --version 4.7.3.1 -y
+choco install microsoft-teams.install --version 1.7.0.19353 -y
+choco install zoom --version 6.1.10.45028 -y
+choco install 7zip --version 24.7.0 -y
+choco install forticlientvpn --version 7.0.1.0083 -y
+choco install vnc-viewer --version 7.7.0 -y
+choco install rdcman --version 2.93.1431 -y
+choco install rdm --version 2024.2.20 -y
+choco install anydesk.install --version 8.0.13 -y
+choco install advanced-ip-scanner --version 2.5.4594.1 -y
+choco install postman --version 11.1.0 -y
+choco install edrawings-viewer --version 32.1.0 -y
+choco install teamviewer9 --version 9.0.38846 -y
+choco install teamviewer.host --version 15.51.6.0 -y
+choco install ultraviewer.install --version 6.6.80 -y
+choco install teamviewer-qs --version 15.51.6.0 -y
+choco install visioviewer2016 --version 16.0 -y
+choco install tcpview --version 4.19 -y
+choco install dbeaver --version 24.1.4 -y
+choco install dwgtrueview --version 2025.0.58.3 -y
+choco install nmap --version 7.95.0 -y
+choco install adexplorer --version 1.52 -y
+choco install sql-server-management-studio --version 20.2.30 -y
+choco install visualstudiocode --version 1.23.1.20180730 -y
+choco install processhacker --version 2.39 -y
+choco install procexp --version 17.6.0 -y
+choco install wireshark --version 4.2.6 -y
+choco install microsoft-message-analyzer --version 1.4.0.20160625 -y
+choco install laps --version 6.2.0.20230808 -y
+choco install pstools --version 1.2023.4.11 -y
+choco install sysmon --version 15.15.0 -y
+choco install as-ssd --version 2.0.7316.34247 -y
+choco install adobereader --version 2024.2.20857 -y
+choco install cpu-z --version 2.9.0.20240123 -y
+choco install crystaldiskinfo --version 9.3.2 -y
+choco install winrar --version 7.1.0 -y
+choco install vmware-tools --version 12.4.0.23259341 -y
+choco install vmrc --version 12.0.5.22744839 -y
+choco install vmware-workstation-player --version 17.5.1.23298084 -y
+choco install disk2vhd --version 2.02 -y
+choco install cmder --version 1.3.25 -y
+choco install pdfcreator --version 5.2.2 -y
+choco install wps-office-free --version 11.2.0.10223 -y
